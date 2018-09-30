@@ -1,6 +1,6 @@
-# Causation-and-Correlation research
-
-news: https://www.bmcc.cuny.edu/news/news.jsp?id=13488
+# Determine Validity of Relationships 
+			–Causation and Correlation
+BMCC news: https://www.bmcc.cuny.edu/news/news.jsp?id=13488
 
 ## research content
 
