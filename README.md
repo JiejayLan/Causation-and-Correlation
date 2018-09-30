@@ -1,2 +1,2 @@
 # Causation-and-Correlation
-A statistics analysis has been widely used in finance. In an effort to organize their data and predict future trends based on the information, many businesses rely on statistical analysis. The statistics relationship includes causation and correlation. Using business examples to explain how these two relationships work.  
+Minority Science and Engineering Improvement Program: Collected data on major airlines’ stock prices and oil prices from 1986 to 2016. We used SPSS and R language to build multiple regression models to analyze airlines’ stock prices and oil prices. Our team presented original research at the 2017 Joint Mathematics Meetings (Jan 2017). 
